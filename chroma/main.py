@@ -3,7 +3,7 @@ from chromadb.config import Settings
 
 CHROMA_HOST = "chroma-prd.apps-prd"
 CHROMA_PORT = 80 
-COLLECTION_NAME = "your_collection_name"
+COLLECTION_NAME = "93776a6b-5f0e-4d21-a0f1-e0711dda1b50"
 
 print(f"Connecting to Chroma at http://{CHROMA_HOST}:{CHROMA_PORT}...")
 
